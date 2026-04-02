@@ -1,4 +1,4 @@
-# 💰 Finance Companion
+# 💰 FinanceBoss
 
 A personal finance Android app that helps users understand their daily money habits in a simple and engaging way. Built with Kotlin, Jetpack Compose, Room, and MVVM architecture.
 
